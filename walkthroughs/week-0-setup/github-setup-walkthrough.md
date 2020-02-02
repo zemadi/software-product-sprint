@@ -92,7 +92,7 @@ Your advisor can now help with code reviews.
 
 ## Require Pull Requests
 
-When you write code, you're going to use **pull requests** to do code reviews.
+When you write code, you're going to use [**pull requests**](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to do code reviews.
 To prevent accidentally modifying the code without going through a code review,
 set your repo to require pull requests.
 
